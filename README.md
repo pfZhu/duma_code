@@ -1,6 +1,6 @@
 # ALBERT + DUMA
 
-This is the source code of our paper. The codes are written based on https://github.com/huggingface/transformers .
+This is the source code of our paper 《DUMA: Reading Comprehension with Transposition Thinking》. The codes are written based on https://github.com/huggingface/transformers .
 
 The codes are tested with pytorch 1.0.0 and python 3.6. If you want to use fp16 for training, please make sure the version is commit 33512f9 of https://github.com/NVIDIA/apex .
 
@@ -39,3 +39,5 @@ To run ALBERT+DUMA on DREAM dataset, you should replace AlbertForMultipleChoice 
 Performance outputs of checkpoints will be saved in my_eval_results.txt .
 
 For Albert xxlarge, please refer to the paper for parameter settings.
+
+More details will be added afterwards.
