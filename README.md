@@ -40,4 +40,4 @@ Performance outputs of checkpoints will be saved in my_eval_results.txt .
 
 For Albert xxlarge, please refer to the paper for parameter settings.
 
-More details will be added afterwards.
+More details will be added in the future.
